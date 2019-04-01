@@ -1,0 +1,1 @@
+DepthMapComparison.exe --LImage gt.png --RImage lf.png
